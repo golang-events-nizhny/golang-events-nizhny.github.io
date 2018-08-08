@@ -1,6 +1,6 @@
 # Go мероприятия в Нижнем Новгороде
 
-![Logo](https://avatars2.githubusercontent.com/u/42206948?s=400&u=a0f010a543d8870f17786e27127b3173b2ba18a3&v=4)
+![Logo](/go_nizhny.png)
 
 ## Контакты
 
