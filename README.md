@@ -2,7 +2,7 @@
 
 ## Контакты
 
-* [Telegram chat](https://t.me/golang_events_nizhny)
+* [Telegram chat](https://t.me/golang_events_nizhny).
 * Канал `#meetup-nizhny` в [слаке русскоязычного сообщества](https://golang-ru.slack.com). [Получить инвайт](http://slack.golang-ru.com/).
 
 ## Митапы
