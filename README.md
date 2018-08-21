@@ -11,4 +11,8 @@
 
 ### 2018
 
-* 20 августа. Полтавская 30 (Куб). [Регистрация](https://golang-events-nn.timepad.ru/event/784847/).
+* 20 августа. Полтавская 30 (Куб).<br>
+  **Слайды:**
+  * [Why Go?](/slides/2018-Aug-20/why-go.pdf)
+  * [Web разработка на Go](/slides/2018-Aug-20/web-dev.pdf)
+  * [NFF-Go: Novel approach to network function development](/slides/2018-Aug-20/nff-go.pdf)
