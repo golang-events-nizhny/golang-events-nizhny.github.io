@@ -17,6 +17,8 @@
   * [Web разработка на Go](/slides/2018-Aug-20/web-dev.pdf) by [Алексей Павлюков](https://github.com/a5i/)
   * [NFF-Go: Novel approach to network function development](/slides/2018-Aug-20/nff-go.pdf) by [Мария Булатова](https://github.com/mbulatova) and [Дарья Колистратова](https://github.com/dkolistratova)
 
+* 8 декабря. Следите за обновлениями!
+
 ## Хакатоны
 
 ### 2018
