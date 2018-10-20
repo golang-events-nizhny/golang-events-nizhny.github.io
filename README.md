@@ -13,9 +13,9 @@
 
 * 20 августа. Полтавская 30 (Куб).<br>
   **Слайды:**
-  * [Why Go?](/slides/2018-Aug-20/why-go.pdf)
-  * [Web разработка на Go](/slides/2018-Aug-20/web-dev.pdf)
-  * [NFF-Go: Novel approach to network function development](/slides/2018-Aug-20/nff-go.pdf)
+  * [Why Go?](/slides/2018-Aug-20/why-go.pdf) by [Искандер Шарипов](https://github.com/Quasilyte)
+  * [Web разработка на Go](/slides/2018-Aug-20/web-dev.pdf) by [Алексей Павлюков](https://github.com/a5i/)
+  * [NFF-Go: Novel approach to network function development](/slides/2018-Aug-20/nff-go.pdf) by [Мария Булатова](https://github.com/mbulatova) and [Дарья Колистратова](https://github.com/dkolistratova)
 
 ## Хакатоны
 
