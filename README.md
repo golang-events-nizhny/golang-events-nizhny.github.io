@@ -4,8 +4,8 @@
 
 ## Контакты
 
-* [Telegram chat](https://t.me/golang_events_nizhny).
-* Канал `#meetup-nizhny` в [слаке русскоязычного сообщества](https://golang-ru.slack.com). [Получить инвайт](http://slack.golang-ru.com/).
+* [Telegram chat](https://t.me/golang_events_nizhny)
+* Канал `#meetup-nizhny` в [слаке русскоязычного сообщества](https://golang-ru.slack.com). [{Получить инвайт}](http://slack.golang-ru.com/)
 
 ## Go Митапы
 
@@ -21,4 +21,4 @@
 
 ### 2018
 
-* 26 октября. Hacktoberfest NN. Максима Горького, 226, ХраЛММ. [Регистрация](https://www.it52.info/events/2018-10-26-hacktoberfest-nn)<br>
+* 26 октября. Hacktoberfest NN. Максима Горького, 226, ХраЛММ. [{Регистрация}](https://www.it52.info/events/2018-10-26-hacktoberfest-nn)<br>
