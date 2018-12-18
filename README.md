@@ -12,12 +12,12 @@
 
 ### 2018
 
-* 20 августа. https://golang-events-nn.timepad.ru/event/784847/
+* 20 августа. [Страница мероприятия на Timepad](https://golang-events-nn.timepad.ru/event/784847/)
   * [Why Go?](/slides/2018-Aug-20/why-go.pdf) {[Искандер Шарипов](https://github.com/Quasilyte)}
   * [Web разработка на Go](/slides/2018-Aug-20/web-dev.pdf) {[Алексей Павлюков](https://github.com/a5i/)}
   * [NFF-Go: Novel approach to network function development](/slides/2018-Aug-20/nff-go.pdf) {[Мария Булатова](https://github.com/mbulatova) и [Дарья Колистратова](https://github.com/dkolistratova)}
 
-* 8 декабря. https://gdgnizhny.timepad.ru/event/856090/
+* 8 декабря. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/856090/)
   * [Что я не люблю в ваших open source проектах на Go](https://docs.google.com/presentation/d/1jjSsXdx4YvG4qZaA6pVAbywq2pvn6lDrlVGDwHcmb-Q/edit?usp=sharing) {[Искандер Шарипов](https://github.com/Quasilyte)}
   * [Ловушки Go, в которые часто попадают новички](https://speakerdeck.com/quasilyte/lovushki-go-v-kotoryie-chasto-popadaiut-novichki) {[Дарья Колистратова](https://github.com/dkolistratova)}
   * Объекты синхронизации в Go {[Алексей Павлюков](https://github.com/a5i/)}
