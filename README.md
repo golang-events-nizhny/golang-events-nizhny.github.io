@@ -21,7 +21,7 @@
   * [Что я не люблю в ваших open source проектах на Go](https://docs.google.com/presentation/d/1jjSsXdx4YvG4qZaA6pVAbywq2pvn6lDrlVGDwHcmb-Q/edit?usp=sharing) {[Искандер Шарипов](https://github.com/Quasilyte)}
   * [Ловушки Go, в которые часто попадают новички](https://speakerdeck.com/quasilyte/lovushki-go-v-kotoryie-chasto-popadaiut-novichki) {[Дарья Колистратова](https://github.com/dkolistratova)}
   * Объекты синхронизации в Go {[Алексей Павлюков](https://github.com/a5i/)}
-  * Go и внешний мир {[Алексей Акулович](https://github.com/atercattus)}
+  * [Go и внешний мир](https://speakerdeck.com/quasilyte/go-i-vnieshnii-mir) {[Алексей Акулович](https://github.com/atercattus)}
   * [Трэйсинг Go приложения](https://speakerdeck.com/quasilyte/treisingh-go-prilozhieniia) {[Артём Андреенко](https://github.com/miolini)}
 
 ## Хакатоны
