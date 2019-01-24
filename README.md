@@ -23,6 +23,13 @@
   * [Объекты синхронизации в Go](https://speakerdeck.com/quasilyte/obiekty-sinkhronizatsii-v-go) {[Алексей Павлюков](https://github.com/a5i/)}
   * [Go и внешний мир](https://speakerdeck.com/quasilyte/go-i-vnieshnii-mir) {[Алексей Акулович](https://github.com/atercattus)}
   * [Трэйсинг Go приложения](https://speakerdeck.com/quasilyte/treisingh-go-prilozhieniia) {[Артём Андреенко](https://github.com/miolini)}
+  
+### 2019
+
+* 16 февраля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/893589/)
+  * TBA {[Алексей Палажченко](https://github.com/AlekSi)}
+  * TBA {[Дарья Колистратова](https://github.com/dkolistratova)}
+  * Как готовить линтеры в go {[Денис Исаев](https://github.com/jirfag)}
 
 ## Хакатоны
 
