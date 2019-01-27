@@ -27,8 +27,8 @@
 ### 2019
 
 * 16 февраля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/893589/)
-  * TBA {[Алексей Палажченко](https://github.com/AlekSi)}
-  * TBA {[Дарья Колистратова](https://github.com/dkolistratova)}
+  * Зачем и как написать свой database/sql драйвер {[Алексей Палажченко](https://github.com/AlekSi)}
+  * Хэш таблицы в Go: детали реализации {[Дарья Колистратова](https://github.com/dkolistratova)}
   * Как готовить линтеры в Go {[Денис Исаев](https://github.com/jirfag)}
 
 ## Хакатоны
