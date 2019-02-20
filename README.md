@@ -17,7 +17,7 @@
   * [Web разработка на Go](/slides/2018-Aug-20/web-dev.pdf) {[Алексей Павлюков](https://github.com/a5i/)}
   * [NFF-Go: Novel approach to network function development](/slides/2018-Aug-20/nff-go.pdf) {[Мария Булатова](https://github.com/mbulatova) и [Дарья Колистратова](https://github.com/dkolistratova)}
 
-* 8 декабря. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/856090/)
+* 8 декабря. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/856090/) {[фотографии](https://vk.com/album-174593251_259135106)}
   * [Что я не люблю в ваших open source проектах на Go](https://docs.google.com/presentation/d/1jjSsXdx4YvG4qZaA6pVAbywq2pvn6lDrlVGDwHcmb-Q/edit?usp=sharing) {[Искандер Шарипов](https://github.com/Quasilyte)}
   * [Ловушки Go, в которые часто попадают новички](https://speakerdeck.com/quasilyte/lovushki-go-v-kotoryie-chasto-popadaiut-novichki) {[Дарья Колистратова](https://github.com/dkolistratova)}
   * [Объекты синхронизации в Go](https://speakerdeck.com/quasilyte/obiekty-sinkhronizatsii-v-go) {[Алексей Павлюков](https://github.com/a5i/)}
@@ -26,9 +26,9 @@
   
 ### 2019
 
-* 16 февраля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/893589/)
-  * Зачем и как написать свой database/sql драйвер {[Алексей Палажченко](https://github.com/AlekSi)}
-  * Хэш таблицы в Go: детали реализации {[Дарья Колистратова](https://github.com/dkolistratova)}
+* 16 февраля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/893589/) {[фотографии](https://vk.com/album-94908570_260849213)}
+  * [Зачем и как написать свой database/sql драйвер](https://speakerdeck.com/quasilyte/sql-draivier) {[Алексей Палажченко](https://github.com/AlekSi)}
+  * [Хэш таблицы в Go: детали реализации](https://speakerdeck.com/quasilyte/khesh-tablitsy-v-go-dietali-riealizatsii) {[Дарья Колистратова](https://github.com/dkolistratova)}
   * Как готовить линтеры в Go {[Денис Исаев](https://github.com/jirfag)}
 
 ## Хакатоны
