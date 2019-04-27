@@ -13,7 +13,7 @@
 ### 2018
 
 * 20 августа. [Страница мероприятия на Timepad](https://golang-events-nn.timepad.ru/event/784847/)
-  * [Why Go?](/slides/2018-Aug-20/why-go.pdf) {[Искандер Шарипов](https://github.com/Quasilyte)}
+  * [Why Go?](/slides/2018-Aug-20/why-go.pdf) {[Искандер Шарипов](https://github.com/quasilyte)}
   * [Web разработка на Go](/slides/2018-Aug-20/web-dev.pdf) {[Алексей Павлюков](https://github.com/a5i/)}
   * [NFF-Go: Novel approach to network function development](/slides/2018-Aug-20/nff-go.pdf) {[Мария Булатова](https://github.com/mbulatova) и [Дарья Колистратова](https://github.com/dkolistratova)}
 
@@ -29,7 +29,11 @@
 * 16 февраля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/893589/) [:camera:](https://vk.com/album-94908570_260849213)
   * [Зачем и как написать свой database/sql драйвер](https://speakerdeck.com/quasilyte/sql-draivier) {[Алексей Палажченко](https://github.com/AlekSi)}
   * [Хэш таблицы в Go: детали реализации](https://speakerdeck.com/quasilyte/khesh-tablitsy-v-go-dietali-riealizatsii) {[Дарья Колистратова](https://github.com/dkolistratova)}
-  * Как готовить линтеры в Go {[Денис Исаев](https://github.com/jirfag)}
+  * [Как готовить линтеры в Go](https://speakerdeck.com/quasilyte/how-to-cook-linters) {[Денис Исаев](https://github.com/jirfag)}
+  
+* 27 апреля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/950837/)
+  * [Bitmap индексы. Что за зверь такой, позволяющий делать поиск с дикой скоростью](https://speakerdeck.com/quasilyte/bitmap-indexes) {[Марко Кевац](https://github.com/mkevac)}
+  * [Используем VK API из Go](https://vk.com/vk_api_from_go) {[Искандер Шарипов](https://github.com/quasilyte)}
 
 ## Хакатоны
 
