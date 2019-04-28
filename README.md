@@ -31,7 +31,7 @@
   * [Хэш таблицы в Go: детали реализации](https://speakerdeck.com/quasilyte/khesh-tablitsy-v-go-dietali-riealizatsii) {[Дарья Колистратова](https://github.com/dkolistratova)}
   * [Как готовить линтеры в Go](https://speakerdeck.com/quasilyte/how-to-cook-linters) {[Денис Исаев](https://github.com/jirfag)}
   
-* 27 апреля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/950837/)
+* 27 апреля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/950837/) [:camera:](https://vk.com/album-174593251_262925002)
   * [Bitmap индексы. Что за зверь такой, позволяющий делать поиск с дикой скоростью](https://speakerdeck.com/quasilyte/bitmap-indexes) {[Марко Кевац](https://github.com/mkevac)}
   * [Используем VK API из Go](https://vk.com/vk_api_from_go) {[Искандер Шарипов](https://github.com/quasilyte)}
 
