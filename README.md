@@ -36,6 +36,9 @@
   * [Используем VK API из Go](https://vk.com/vk_api_from_go) {[Искандер Шарипов](https://github.com/quasilyte)}
   
 * 27 июня. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/997436/) [:camera:](https://vk.com/album-94908570_264247576) [:movie_camera:](https://www.youtube.com/playlist?list=PL98yBcl26_qdcmwpiaWXuJuMYIVYXXGRd)
+  * [ORM в Go: границы применимости и шаблоны изоляции слоя данных]() {Александр Грунин}
+  * [Генератор клиента к базе данных на Golang на основе интерфейса]() {Заур Абасмирзоев}
+  * [Still Alive: readiness - liveness probes для k8s архитектуры]() {Влад Богомолов}
 
 ## Хакатоны
 
