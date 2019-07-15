@@ -34,6 +34,8 @@
 * 27 апреля. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/950837/) [:camera:](https://vk.com/album-174593251_262925002)
   * [Bitmap индексы. Что за зверь такой, позволяющий делать поиск с дикой скоростью](https://speakerdeck.com/quasilyte/bitmap-indexes) {[Марко Кевац](https://github.com/mkevac)}
   * [Используем VK API из Go](https://vk.com/vk_api_from_go) {[Искандер Шарипов](https://github.com/quasilyte)}
+  
+* 27 июня. [Страница мероприятия на Timepad](https://gdgnizhny.timepad.ru/event/997436/) [:camera:](https://vk.com/album-94908570_264247576)
 
 ## Хакатоны
 
